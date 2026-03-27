@@ -1,1 +1,1 @@
-https://abubakarbashir33751503-cell.github.io/my-single-CV-project/
+https://abubakarbashir33751503-cell.github.io/HTML/
