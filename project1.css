@@ -1,9 +1,9 @@
  .cv-container{
       border:3px solid black;
-      width:50%;
-      height:1100px;
-      padding-left: 100px;
-      margin-left: 300px;
+      width:90%
+       max-width:800px;
+      padding: 20px;
+      margin: 0 auto;
       }
     .hr{
       border:1px solid black;
